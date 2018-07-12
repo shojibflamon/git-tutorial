@@ -1,4 +1,4 @@
-i want to make this commit as a first line of this file
+Git command list
 here we have learned
 git status 
 git log
@@ -20,5 +20,5 @@ git checkout <branch name> [go to branch name]
 [shishir]
 1 orange
 2 mango
-3
+3 Nut
 [shishir]
