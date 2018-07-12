@@ -6,7 +6,7 @@ git add <file name> [for single file staged]
 git add . [for all file]
 git commit -m "Commit Message"
 git diff 
-git show
+git show <commit id>
 git push
 git checkout <commit id> [go to that commit]
 git checkout <branch name> [go to branch name]
