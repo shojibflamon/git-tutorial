@@ -12,7 +12,7 @@ git checkout <commit id> [go to that commit]
 git checkout <branch name> [go to branch name]
 
 [rownak]
-1
+1 apple
 2
 3
 [rownak]
