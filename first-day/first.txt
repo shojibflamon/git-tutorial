@@ -29,3 +29,9 @@ git checkout <branch name> [go to branch name]
 2
 3
 [development]
+New Merge command
+first go to that branch whoich need to merge with another branch
+so command is "git checkout master"
+that means master branch wants to merge with another branch
+suppose maste wants to merge with development branch
+so command is "git merge development"
