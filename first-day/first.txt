@@ -2,7 +2,7 @@ i want to make this commit as a first line of this file
 here we have learned
 git status 
 git log
-git add <file name>
+git add <file name> [for single file staged]
 git add . [for all file]
 git commit -m "Commit Message"
 git diff 
