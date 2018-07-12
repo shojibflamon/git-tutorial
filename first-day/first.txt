@@ -12,7 +12,7 @@ git checkout <commit id> [go to that commit]
 git checkout <branch name> [go to branch name]
 
 [shishir]
-1
+1 orange
 2
 3
 [shishir]
