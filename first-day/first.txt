@@ -13,12 +13,12 @@ git checkout <branch name> [go to branch name]
 
 [rownak]
 1 apple
-2
+2 goava
 3
 [rownak]
 
 [shishir]
 1 orange
-2
-3
+2 mango
+3 Nut
 [shishir]
