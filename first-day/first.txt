@@ -14,7 +14,7 @@ git checkout <branch name> [go to branch name]
 [rownak]
 1 apple
 2 goava
-3
+3 tometto
 [rownak]
 
 [shishir]
