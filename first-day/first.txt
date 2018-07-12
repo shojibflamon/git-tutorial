@@ -13,6 +13,6 @@ git checkout <branch name> [go to branch name]
 
 [shishir]
 1 orange
-2
+2 mango
 3
 [shishir]
