@@ -1,1 +1,2 @@
 this is second day file. here we will learn branch
+i am branch b and want to change this line
